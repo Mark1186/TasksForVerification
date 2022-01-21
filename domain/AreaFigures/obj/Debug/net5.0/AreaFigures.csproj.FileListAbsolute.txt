@@ -1,0 +1,12 @@
+C:\Users\hack7\source\repos\AreaFigures\domain\AreaFigures\bin\Debug\net5.0\AreaFigures.deps.json
+C:\Users\hack7\source\repos\AreaFigures\domain\AreaFigures\bin\Debug\net5.0\AreaFigures.dll
+C:\Users\hack7\source\repos\AreaFigures\domain\AreaFigures\bin\Debug\net5.0\ref\AreaFigures.dll
+C:\Users\hack7\source\repos\AreaFigures\domain\AreaFigures\bin\Debug\net5.0\AreaFigures.pdb
+C:\Users\hack7\source\repos\AreaFigures\domain\AreaFigures\obj\Debug\net5.0\AreaFigures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hack7\source\repos\AreaFigures\domain\AreaFigures\obj\Debug\net5.0\AreaFigures.AssemblyInfoInputs.cache
+C:\Users\hack7\source\repos\AreaFigures\domain\AreaFigures\obj\Debug\net5.0\AreaFigures.AssemblyInfo.cs
+C:\Users\hack7\source\repos\AreaFigures\domain\AreaFigures\obj\Debug\net5.0\AreaFigures.csproj.CoreCompileInputs.cache
+C:\Users\hack7\source\repos\AreaFigures\domain\AreaFigures\obj\Debug\net5.0\AreaFigures.dll
+C:\Users\hack7\source\repos\AreaFigures\domain\AreaFigures\obj\Debug\net5.0\ref\AreaFigures.dll
+C:\Users\hack7\source\repos\AreaFigures\domain\AreaFigures\obj\Debug\net5.0\AreaFigures.pdb
+C:\Users\hack7\source\repos\AreaFigures\domain\AreaFigures\obj\Debug\net5.0\AreaFigures.csproj.AssemblyReference.cache
